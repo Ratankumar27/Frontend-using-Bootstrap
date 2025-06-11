@@ -40,7 +40,9 @@
   <p><strong>FAQ Accordion:</strong> Expandable questions where only one answer is visible at a time for better user experience.</p>
 
    <section>
-    <h2>📄 Brief Code Overview</h2>
+   <img src="https://github.com/Ratankumar27/Frontend-using-Bootstrap/blob/fe46da49964652def624f6244dc48fc25cdf6abe/Screenshot%202025-06-11%20125119.png"/>
+     
+  <h2>📄 Brief Code Overview</h2>
 
   <h3>1. Head Section</h3>
   <ul>
