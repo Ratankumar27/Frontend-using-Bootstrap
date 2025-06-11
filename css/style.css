@@ -1,0 +1,165 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.watsappbtn{
+    color: #27AE60;
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    font-size: 16px;
+}
+
+.watsappbtn:hover{
+  color: #27AE60;
+}
+.watsappbtn i{
+     color: #27AE60;
+}
+
+
+
+.call{
+    color: white;
+    font-size: 16px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 10px 18px;
+}
+
+
+.bannerContent h1{
+    font-style: Inter;
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span{
+    color: #2699FB;
+    background: url("../img/Vector.png") no-repeat bottom;
+}
+
+.bannerContent p{
+ 
+    font-size: 22px;
+}
+
+.bannerContent ul{
+  list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+} 
+
+.bannerContent ul li i{
+    color: #2699FB;
+}
+
+.buttonBtn button{
+    font-size: 20px;
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 8px;
+    border: #2699FB;
+}
+
+.buttonBtn button:first-child{
+    color: white;
+    background: linear-gradient(to right,#0ACEFE, #2699FB);
+    font-weight: 700;
+}
+
+.bannerForm{
+    padding: 40px;
+}
+
+.bannerForm h3{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.bannerForm p{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.regBtn button{
+    font-size: 20px;
+    width: 100%;
+    padding: 10px 0px;
+    color: white;
+    background: linear-gradient(to right,#0ACEFE, #2699FB);
+    font-weight: 700;
+     border-radius: 8px;
+    border: #2699FB;
+}
+
+.counter h2{
+    font-size: 30px;
+    font-weight: 700;
+    color:  #2699FB;
+}
+
+.counter p{
+    font-weight: 400;
+    color: #43505B;
+}
+
+.highlight-section{
+    background-color: #F7FAFF;
+}
+
+.highlight-section h1{
+    font-weight: 700;
+    font-family: 36px;
+}
+
+.highlightcontent h4{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.highlightcontent p{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#navbarNav ul li a{
+    font-weight: 700;
+    margin-right: 15px;
+    color: #0ACEFE;
+
+}
+
+.faqQuora h2{
+    font-weight: 700;
+    font-size: 44px;
+}
+
+.faqQuora p{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.tabsystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link  {
+    border-bottom:1px solid #0ACEFE;
+    border-radius: 0%;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #F2F4F7;   
+}
+
+.tabsystem .nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #43505B;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.tabinfo ul{
+    list-style: none;
+    font-weight: 400;
+    font-size: 22px;
+}
+
