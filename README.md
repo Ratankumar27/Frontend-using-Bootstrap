@@ -232,6 +232,7 @@
         </ul>
       </li>
     </ul>
+    <img src="https://github.com/Ratankumar27/Frontend-using-Bootstrap/blob/4a31f7837728efb978c76ac9342333a1cb24a30a/Screenshot%202025-06-11%20125602.png"/>
   </section>
   </section> 
 </body>
