@@ -123,6 +123,7 @@
         </li>
       </ul>
     </li>
+    <img src="https://github.com/Ratankumar27/Frontend-using-Bootstrap/blob/829062ebb31a3a5db944b747911a500f1191edeb/Screenshot%202025-06-11%20125504.png"/>
   </ul>
 
   <h3>7. Counter Section</h3>
