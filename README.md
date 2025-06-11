@@ -15,7 +15,7 @@
     The layout adapts smoothly across devices, providing easy navigation, clear course highlights, curriculum details, and a user-friendly FAQ section.
   </p>
 
-  <p><strong>Technologies Used:</strong> HTML5 for structure, Bootstrap 5 for layout and components, Font Awesome for icons, and Google Fonts for typography.</p>
+  <p><h2>Technologies Used:</h2> HTML5 for structure, Bootstrap 5 for layout and components, Font Awesome for icons, and Google Fonts for typography.</p>
 
   <p><strong>Head Section:</strong> Links to CSS files and sets viewport for responsiveness.</p>
 
